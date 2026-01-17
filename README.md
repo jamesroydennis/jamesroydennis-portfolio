@@ -1,106 +1,88 @@
 # James Roy Dennis — Professional Portfolio
 
-This repository serves as my **professional engineering portfolio**.
+This repository serves as my **general software engineering portfolio**.
 
-Its purpose is to present **applied, real‑world system design and automation work** in a way that is clear, inspectable, and directly aligned with problems faced by employers and customers.
+Its purpose is to present **applied, real‑world engineering and systems work** in a way that is clear, inspectable, and directly relevant to **Senior Software Engineer / Senior IC / Architect‑adjacent** roles across multiple domains.
 
 ---
 
 ## Portfolio Intent
 
-This portfolio is **not a theory archive** and **not an institutional site**.
+This portfolio is **not a marketing site**, **not a theory archive**, and **not domain‑exclusive**.
 
 It exists to demonstrate:
 
-* Practical systems architecture
-* Automation‑first engineering
-* Problem‑driven technical decision‑making
+* Practical software engineering under real constraints
+* Systems thinking applied to production environments
+* Automation‑first problem solving
 * Clear translation between requirements, constraints, and implementation
+* Reliability, traceability, and maintainability over novelty
 
-Where appropriate, deeper architectural or research work (e.g., PortusSophia™) is referenced as **background**, not as a prerequisite for understanding the work here.
-
----
-
-## Real‑Time Demo Focus: Healthcare Interoperability
-
-A core component of this portfolio is an **applied, real‑time demonstration** addressing a common and costly healthcare IT problem:
-
-> *Fragmented clinical data caused by misalignment between LOINC, SNOMED CT, and FHIR representations.*
-
-### The Problem Employers and Customers Face
-
-Healthcare systems routinely struggle with:
-
-* Inconsistent clinical terminology across systems
-* Brittle mappings between LOINC and SNOMED CT
-* FHIR resources that validate syntactically but fail semantically
-* High manual cost to maintain terminology alignment
-* Downstream analytics and clinical decision errors
-
-These issues surface as:
-
-* Integration delays
-* Data quality incidents
-* Regulatory and compliance risk
-* Lost engineering time
+Where deeper architectural or research work exists (e.g., formal white papers or long‑running architecture projects), it is referenced only as **background signal**, not as a prerequisite to evaluate the work here.
 
 ---
 
-## Demonstration Objective
+## What You Will See Here
 
-The demo in this portfolio is designed to show **how these systems can converge cleanly**:
+This repository emphasizes **how systems behave under pressure**, not just how they are designed in ideal conditions.
 
-* **LOINC** — observational and measurement semantics
-* **SNOMED CT** — clinical concept grounding
-* **FHIR** — interoperable resource exchange
+Across examples and artifacts, the focus is on:
 
-The emphasis is on:
+* Designing systems that fail safely
+* Reducing manual operational overhead
+* Making constraints explicit and enforceable
+* Using automation to replace fragile human processes
+* Improving system reliability over time, not just feature delivery
 
-* Automated validation
-* Repeatable mappings
-* Clear failure modes
-* Governance‑aware constraints
+The work reflects experience in environments where:
 
-This is an **engineering demonstration**, not a whitepaper.
-
----
-
-## What This Demonstrates
-
-Through code, configuration, and automated validation, this portfolio shows:
-
-* How to design interoperability pipelines that fail safely
-* How to reduce manual terminology reconciliation
-* How governance constraints can be encoded into systems
-* How CI pipelines can validate healthcare data transformations continuously
-
-The focus is on **how the system behaves under change**, not just how it looks when everything is correct.
+* Requirements evolve
+* Data quality matters
+* Mistakes have real downstream cost
+* Engineers are expected to own outcomes, not just code
 
 ---
 
-## How to Read This Repository
+## Representative Problem Domains
+
+While specific examples may come from regulated or data‑heavy domains, the engineering patterns demonstrated here are broadly applicable to:
+
+* Platform and infrastructure engineering
+* Data processing and analytics systems
+* Enterprise and SaaS software
+* Integration‑heavy environments
+* Automation and tooling development
+
+The emphasis is on **transferable engineering judgment**, not domain specialization.
+
+---
+
+## How to Review This Repository
 
 * Start with the **problem framing** in each section
-* Review the **system assumptions and constraints**
-* Inspect the **automation and validation logic**
-* Observe how errors are detected and surfaced
+* Review the **assumptions and constraints** being addressed
+* Inspect the **implementation and automation logic**
+* Note how failures are detected, surfaced, and handled
 
-Everything here is designed to be readable by:
+This material is written to be legible to:
 
 * Senior engineers
-* Architects
 * Technical leads
-* Healthcare IT stakeholders
+* Architects
+* Engineering managers
 
 ---
 
-## Relationship to PortusSophia™
+## Professional Context
 
-PortusSophia™ is a long‑running systems architecture and integrity project that informs how I think about governance, automation, and system boundaries.
+My background includes sustained applied work across:
 
-This portfolio applies those principles **directly and concretely** to real‑world engineering problems.
+* Enterprise software platforms
+* Data‑driven systems
+* Regulated technical environments
+* Automation and build/release infrastructure
 
-No familiarity with PortusSophia™ is required to evaluate the work here.
+The unifying theme is **reducing ambiguity and stabilizing systems as they scale or change**.
 
 ---
 
@@ -110,17 +92,14 @@ This portfolio is **actively curated**.
 
 Content is added deliberately to reflect:
 
-* Applied engineering capability
-* Real problem domains
+* Demonstrated engineering capability
+* Real problem contexts
 * Clear technical signal
 
 ---
 
 ## Contact
 
-Professional inquiries and discussion are welcome via my GitHub profile or LinkedIn.
+Professional inquiries and technical discussion are welcome via my GitHub profile or LinkedIn.
 
----
-
-*Here and Now!*
 
