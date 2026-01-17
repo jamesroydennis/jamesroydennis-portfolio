@@ -2,6 +2,8 @@
 
 **Systems Architect • Senior IC Engineer • Governance‑Aware Automation**
 Baltimore, MD • Open to Remote / Hybrid
+Email: [jardennis@gmail.com
+](mailto:jardennis@gmail.com)
 
 ---
 
