@@ -96,6 +96,9 @@ Proven ability to work independently in regulated environments, applying systems
 **Indiana University–Purdue University Indianapolis**
 Coursework in Computer Science and Mathematics
 
+## Published Systems Research (SSRN)
+[Schema Epistemics: Knowledge as Constraint-Bearing Structure by James Roy Dennis :: SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5945995)
+
 ---
 
 ## Additional Information
