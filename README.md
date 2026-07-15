@@ -1,8 +1,11 @@
-# James Roy Dennis — Founder and Professional Research Portfolio
+# James Roy Dennis
 
-This repository is the source workspace for the public professional research portfolio of **James Roy Dennis** and **PortusSophia™**.
+**Independent Researcher · Scholar · Author**
+**Founder, PortusSophia, LLC · Architect of PortusSophia™**
 
-> The work already exists. This portfolio makes its origin, boundaries, evidence, and possible forms of engagement legible.
+This repository is the source workspace for my professional research, writing, and public portfolio.
+
+It presents the body of work I have developed through PortusSophia™, its intellectual and professional provenance, the evidence supporting its public claims, and the bounded ways scholars, institutions, foundations, publishers, and organizations may engage with it.
 
 ## Orientation
 
