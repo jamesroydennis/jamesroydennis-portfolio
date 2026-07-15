@@ -1,105 +1,93 @@
-# James Roy Dennis — Professional Portfolio
+# James Roy Dennis — Founder and Professional Research Portfolio
 
-This repository serves as my **general software engineering portfolio**.
+This repository is the source workspace for the public professional research portfolio of **James Roy Dennis** and **PortusSophia™**.
 
-Its purpose is to present **applied, real‑world engineering and systems work** in a way that is clear, inspectable, and directly relevant to **Senior Software Engineer / Senior IC / Architect‑adjacent** roles across multiple domains.
+> The work already exists. This portfolio makes its origin, boundaries, evidence, and possible forms of engagement legible.
 
----
+## Orientation
 
-## Portfolio Intent
+**James Roy Dennis** is the Founder and Originating Field Architect of **PortusSophia™**, an independent research programme and candidate field architecture for abstract epistemic discipline.
 
-This portfolio is **not a marketing site**, **not a theory archive**, and **not domain‑exclusive**.
+His work examines how distinctions, provenance, explanatory burden, context, and knowledge-bearing structures survive—or fail—across interfaces, disciplines, organizations, and technical systems.
 
-It exists to demonstrate:
+The portfolio is intentionally **dual-centered**:
 
-* Practical software engineering under real constraints
-* Systems thinking applied to production environments
-* Automation‑first problem solving
-* Clear translation between requirements, constraints, and implementation
-* Reliability, traceability, and maintainability over novelty
+- **James Roy Dennis** is the Founder, directing investigator, and accountable human presence.
+- **PortusSophia™** is the independent research programme and field architecture he originated and built.
+- **The portfolio** is the interface through which both may be encountered without either absorbing the other.
 
-Where deeper architectural or research work exists (e.g., formal white papers or long‑running architecture projects), it is referenced only as **background signal**, not as a prerequisite to evaluate the work here.
+This is not a conventional résumé organized around placement inside an employer's structure. The work already exists. Institutional relationships are invited where they can engage the work without requiring the abandonment, absorption, or subordination of PortusSophia.
 
----
+## What the Portfolio Will Present
 
-## What You Will See Here
+The public portfolio will provide clear paths into:
 
-This repository emphasizes **how systems behave under pressure**, not just how they are designed in ideal conditions.
+- **The Founder** — human provenance, inquiry mode, and accountable authorship;
+- **The Declared Interface** — the posture, conduct, authority limits, and self-binding architecture established by PS-BIOS-001;
+- **The Inquiry Architecture** — provenance-centered recursive inquiry, founder-designed stewardship, and bounded AI contribution;
+- **The Research Programme** — books, papers, methods, taxonomies, and signature contributions;
+- **Applied Lineage** — military technical discipline, human-systems leadership, healthcare interfaces and terminology, enterprise software, automation, documentation, and failure tracing;
+- **Evidence and Standing** — inspectable records with exact distinctions among deposited, distributed, self-published, draft, submitted, accepted, and peer-reviewed work;
+- **Creative and Public Work** — accessible communication, humor, speculative dialogue, and disciplined non-closure;
+- **Ways to Engage** — bounded collaboration, advisory work, commissioned inquiry, consulting, invited talks, workshops, and fellowship relationships.
 
-Across examples and artifacts, the focus is on:
+## Governing Design Direction
 
-* Designing systems that fail safely
-* Reducing manual operational overhead
-* Making constraints explicit and enforceable
-* Using automation to replace fragile human processes
-* Improving system reliability over time, not just feature delivery
+The portfolio is being developed through four complementary registers:
 
-The work reflects experience in environments where:
+- **The Harbor** is the public metaphor: a place of orientation, examination, and further departure.
+- **The Declared Interface** is the structural grammar: explicit navigation, visible scope, and no hidden authority.
+- **The Long Dinner** is the human register: warmth, imagination, humor, and intellectual generosity without manufactured endorsement.
+- **The Living Archive** is the evidence layer: claims, artifacts, provenance, and standing remain available for inspection.
 
-* Requirements evolve
-* Data quality matters
-* Mistakes have real downstream cost
-* Engineers are expected to own outcomes, not just code
+**“Here and Now!”** is the recurring orientation return of the architecture. It is not a decorative slogan or a claim of final arrival.
 
----
+## Engagement Posture
 
-## Representative Problem Domains
+James and PortusSophia may be engaged where provenance, distinction preservation, explanatory burden, cross-domain translation, interface conditions, or knowledge-carrying failure materially affect the work.
 
-While specific examples may come from regulated or data‑heavy domains, the engineering patterns demonstrated here are broadly applicable to:
+Possible relationships include:
 
-* Platform and infrastructure engineering
-* Data processing and analytics systems
-* Enterprise and SaaS software
-* Integration‑heavy environments
-* Automation and tooling development
+- bounded research collaboration;
+- epistemic, conceptual, or explanatory architecture review;
+- AI design, data, validation, deployment, and stewardship analysis;
+- schema, terminology, provenance, and translation work;
+- commissioned inquiry;
+- advisory or consulting engagements;
+- invited talks and workshops;
+- foundation, fellowship, publishing, and scholarly relationships.
 
-The emphasis is on **transferable engineering judgment**, not domain specialization.
+Collaboration does not imply absorption. Institutions remain responsible for their own decisions and domain conclusions.
 
----
+## Repository Status
 
-## How to Review This Repository
+This repository is being reconstituted from an earlier software-engineering employment portfolio into the governed professional research portfolio described above.
 
-* Start with the **problem framing** in each section
-* Review the **assumptions and constraints** being addressed
-* Inspect the **implementation and automation logic**
-* Note how failures are detected, surfaced, and handled
+The immediate work is:
 
-This material is written to be legible to:
+1. establish the public information architecture and copy;
+2. prepare the Founder portrait and programme identity assets;
+3. build the evidence and standing layer;
+4. select a web implementation strategy only after the content model is stable.
 
-* Senior engineers
-* Technical leads
-* Architects
-* Engineering managers
+No Jekyll, MkDocs, or other web framework has yet been adopted for this portfolio.
 
----
+## Research and Verification
 
-## Professional Context
+The repository will link to public and inspectable records across PortusSophia's research portal, Zenodo, SSRN, ORCID, Leanpub, ResearchGate, GitHub, and other appropriate publication or identity surfaces.
 
-My background includes sustained applied work across:
+Hosting or repository presence must not be mistaken for peer review, endorsement, or venue acceptance. Each artifact will carry its actual standing.
 
-* Enterprise software platforms
-* Data‑driven systems
-* Regulated technical environments
-* Automation and build/release infrastructure
+## Copyright and Use
 
-The unifying theme is **reducing ambiguity and stabilizing systems as they scale or change**.
+Public visibility does not grant permission to reproduce, republish, adapt, distribute, or commercially exploit this repository's contents.
 
----
-
-## Status
-
-This portfolio is **actively curated**.
-
-Content is added deliberately to reflect:
-
-* Demonstrated engineering capability
-* Real problem contexts
-* Clear technical signal
-
----
+See [LICENSE.md](LICENSE.md) for the governing copyright, trademark, portrait, and reuse terms. Individual research works linked from this portfolio may carry their own licenses or repository terms.
 
 ## Contact
 
-Professional inquiries and technical discussion are welcome via my GitHub profile or LinkedIn.
+Professional, scholarly, fellowship, publishing, and collaboration inquiries may be initiated through James Roy Dennis's GitHub profile or the public PortusSophia research portal.
 
+---
 
+**Here and Now!**
